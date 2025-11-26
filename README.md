@@ -7,10 +7,10 @@ Feel free to add resources! You can open an issue with the resource details (Nam
 
 ### What belongs in this list?
 
-We look for content tailored to the engineering mind. This includes:
 - Resources designed specifically for developers.
-- Articles, courses, or books written from an engineer's perspective.
+- Articles or books written from an engineer's perspective.
 - Websites that explain concepts using first-principles thinking, visualization, or interactivity that piques a nerd's interest.
+- **BUT completely unrelated to coding.**
 
 ## Table of Contents
 - [💸 Finance](#-finance)
