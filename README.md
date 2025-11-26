@@ -1,5 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/478a8e35-b7fb-4ad2-9b45-45388a0ff637)
-_(Made with 💜 using [StoryMotion](https://storymotion.video/))_
+_(Made and animated with 💜 using [StoryMotion](https://storymotion.video/). Maintained by [LearnAlgorithm](https://learnalgorithm.com/))_
 
 > A curated list of guides, online courses, articles, and resources for coders, engineers, and nerds that are completely unrelated to coding.
 
