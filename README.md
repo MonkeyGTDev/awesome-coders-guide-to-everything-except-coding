@@ -1,6 +1,17 @@
 # An Awesome Coders Guide to Everything Except Coding
 A curated list of guides, online courses, articles, and resources for coders, engineers, and nerds that are completely unrelated to coding.
 
+### How to contribute?
+
+Feel free to add resources! You can open an issue with the resource details (Name, Description, Format, Date, Author), or submit a Pull Request following the existing table format.
+
+### What belongs in this list?
+
+We look for content tailored to the engineering mind. This includes:
+- Resources designed specifically for developers.
+- Articles, courses, or books written from an engineer's perspective.
+- Websites that explain concepts using first-principles thinking, visualization, or interactivity that piques a nerd's interest.
+
 ## Table of Contents
 - [💸 Finance](#-finance)
 - [🍵 Food and Drink](#-food-and-drink)
