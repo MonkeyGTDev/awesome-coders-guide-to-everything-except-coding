@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/cafaa54e-8ce7-4d4f-a21d-a3bf8f476aa7)
+![banner](https://github.com/user-attachments/assets/478a8e35-b7fb-4ad2-9b45-45388a0ff637)
 
 > A curated list of guides, online courses, articles, and resources for coders, engineers, and nerds that are completely unrelated to coding.
 
