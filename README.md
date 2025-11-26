@@ -18,4 +18,4 @@ A curated list of guides, online courses, articles, and resources for coders, en
 |  | Name | Short Description | Format | Published Date | Author |
 | -- | ---| ------ | ------ | ------ | ------ |
 | 👨‍🍳 | [Cooking For Engineers](https://www.cookingforengineers.com/) | Have an analytical mind? Like to cook? This is the site to read! | Website | June 2004 | Michael Chu |
-| 👨‍🍳 | [How To Cook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home. | Website | Feb 29, 2020 | [Anduin Xue](https://github.com/Anduin2017) |
+| 👨‍🍳 | [How To Cook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only) | Website | Feb 29, 2020 | [Anduin Xue](https://github.com/Anduin2017) |
