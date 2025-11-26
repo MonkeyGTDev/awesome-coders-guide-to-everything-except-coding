@@ -5,6 +5,7 @@ A curated list of guides, online courses, articles, and resources for coders, en
 - [💸 Finance](#-finance)
 - [🍵 Food and Drink](#-food-and-drink)
 - [🧶 Craft](#-craft)
+- [🎵 Music](#-music)
 - [💪 Health and Fitness](#-health-and-fitness)
 
 ## 💸 Finance
@@ -26,3 +27,12 @@ A curated list of guides, online courses, articles, and resources for coders, en
 |  | Name | Short Description | Format | Published Date | Author |
 | -- | ---| ------ | ------ | ------ | ------ |
 | 🪑 | [Woodworking for engineers](https://woodgears.ca/) | An engineer's approach to Woodworking | Website | - | [Matthias Wandel](https://woodgears.ca/faq/index.html) |
+
+## 🎵 Music
+
+|  | Name | Short Description | Format | Published Date | Author |
+| -- | ---| ------ | ------ | ------ | ------ |
+| 🎶 | [Chromatone](https://chromatone.center/) | Visual Music Language to learn, explore and communicate with | Website | - | [@chromatone](https://github.com/chromatone/) |
+
+
+## 💪 Health and Fitness
